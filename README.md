@@ -1,67 +1,115 @@
-# Danyal-Ali
-# Hi 👋, I'm Danyal Ali
+  #Danyal Ali
 
-### 💻 Web Developer | Java Enthusiast | Python Learner
+# 👋 Hi, I'm Danyal Ali
 
-I'm a passionate Web Developer who enjoys building responsive websites and learning new technologies. I have experience in Java, Python, C, HTML, CSS, JavaScript, and I'm continuously improving my development skills.
-
----
-
-## 🚀 About Me
-
-- 🌐 Web Developer
-- ☕ Knowledge of Java
-- 🐍 Knowledge of Python
-- 💻 Knowledge of C Language
-- 📚 Currently learning Spring Boot & Full Stack Development
-- 🎯 Goal: Become a Full Stack Java Developer
-
----
-
-## 🛠️ Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,c,git,github,vscode,mysql" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Web+Developer;Java+Developer;AI+Enthusiast;Computer+Science+Engineer;Open+Source+Contributor" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💫 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+🚀 Passionate **Computer Science Engineering Student** with expertise in **Web Development, Java, Python, C, MERN Stack, and AI-powered applications**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+I enjoy building innovative software that solves real-world problems. My interests include Full Stack Development, Artificial Intelligence, Computer Vision, and Software Engineering.
 
----
-
----
-
-## 🚀 Projects
-
-- 🌐 Responsive Website Development
-- ☕ Java Projects
-- 🌱 Spring Boot REST APIs
-- 🐍 Python 
-- 💻 C Language 
+Currently working as a **Software Development Intern at Paytm**, while continuously improving my technical and problem-solving skills.
 
 ---
 
-## 📫 Connect with Me
+## 💼 Experience
 
-<p>
-<a href="https://github.com/Dany_321">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="www.linkedin.com/in/danyal-ali-a77298327">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="alidanyal290@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+### 💙 Software Development Intern
+**Paytm**
+- Working on real-world software development projects.
+- Collaborating with developers on scalable applications.
+- Gaining industry experience in software engineering and modern development practices.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**
+
+Noida Institute of Engineering & Technology (NIET)
+
+📍 Greater Noida, India
+
+**Current SGPA:** 8.45
+
+---
+
+## 🏆 Achievements
+
+🥇 Finalist – IIT Roorkee E-Summit Productathon AI
+
+🏅 Participated in 5+ National Hackathons
+
+🏆 Finalist in 3 Hackathons
+
+🥈 4th Position – Bennett University Research Hackathon
+
+💰 Received Mentorship Cheque for NRP Project at EBULLIENCE'25
+
+📄 Published Research Paper on
+
+**Rural Society for Agriculture and Animal Protection**
+
+🏅 Winner – ESCAPE ROOM 2.0 (NIET)
+
+💼 Cracked **4 Internship Offers**
+
+💙 Currently working as **Software Development Intern at Paytm**
+
+📜 Earned **40+ Professional Certificates** from various companies and institutions.
+
+---
+
+## 🚀 Current Focus
+
+- Full Stack Web Development
+- Spring Boot
+- REST API Development
+- Artificial Intelligence
+- MERN Stack
+- Computer Vision
+- Problem Solving
+
+---
+
+## 📜 Certifications
+
+- HP LIFE Certification
+- HackerRank Certification
+- 40+ Professional Certificates
+
+---
+
+## 🌍 Languages
+
+- English
+- Hindi (Fluent)
+- German (Basic)
+
+---
+
+## 🤝 Soft Skills
+
+- Leadership
+- Teamwork
+- Critical Thinking
+- Communication
+- Time Management
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/danyal-ali-a77298327
+
+💻 GitHub
+
+https://github.com/Dany7865
