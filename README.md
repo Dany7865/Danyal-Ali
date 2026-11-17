@@ -22,8 +22,6 @@
 
 # 💫 About Me
 
-💙 Software Development Intern @ **Paytm**
-
 💻 Passionate Full Stack Web Developer.
 
 🚀 Strong knowledge of Java, Python, C, MERN Stack and Spring Boot.
